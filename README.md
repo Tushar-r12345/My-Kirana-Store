@@ -1,7 +1,6 @@
 # my-kirana-store
 **( A dsa and OOPs based project in c++ language )**
-
-**INTRODUCTION: **
+**INTRODUCTION:**
 
 In this we are going to design and implement a program that can be used in E-commerce industries and daily needs of retails store or vendors which 
 will help administration and customer to buy, sell of product or add the new product along with deletion and the product which has shortage or less demanded
